@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://raw.githubusercontent.com/Rdimo/images/ef843c19b7dc2f65c6ace3d763c521d6218d7269/Hazard-Token-Grabber-V2/Hazardv2.jpg">
+<img src="https://raw.githubusercontent.com/trhacknon/images/ef843c19b7dc2f65c6ace3d763c521d6218d7269/Hazard-Token-Grabber-V2/Hazardv2.jpg">
   </kbd>
 </p>
 
@@ -48,7 +48,7 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 > Anti-vm/Anti-debug
 > Add to startup
 > Hides itself
-> Supports github.com/Rdimo/Discord-Webhook-Protector so webhook can't be deleted or spammed
+> Supports github.com/trhacknon/Discord-Webhook-Protector so webhook can't be deleted or spammed
 > Options are configurable
 > Pretty Fast Even if it Was Made With Python
 > Windows Product Key & Build Info
@@ -60,7 +60,7 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 > + More!
 ```
 
-## <img src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Token-Grabber-V2/info.png">
+## <img src="https://raw.githubusercontent.com/trhacknon/images/master/Hazard-Token-Grabber-V2/info.png">
 
 ---
 
